@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/ARXINO/arxino.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a computer engineering student at Ege University and I love creating things like robotic systems and computer games. Here, you can find some of my projects with detailed descriptions and projects I am working on.<br>
+You can always check out my [github](https://github.com/ARXINO) page and [linked-in](https://www.linkedin.com/in/emre-sahinn/) account :)
 
 ### Markdown
 
