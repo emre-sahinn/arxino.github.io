@@ -3,34 +3,22 @@
 I am a computer engineering student at Ege University and I love creating things like robotic systems and computer games. Here, you can find some of my projects with detailed descriptions and projects I am working on.<br>
 You can always check out my [github](https://github.com/ARXINO) page and [linked-in](https://www.linkedin.com/in/emre-sahinn/) account :)
 
-### Markdown
+### Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have a good understanding of low-level languages like C. I initally write my algorithms in high-level languages like Pyhton, Java, C# then I convert them to C. Memory and time efficiency is my priorty thanks to Atmega328 microchips. I have been working on microchips for 3 years and since then I made several robotic and automation projects (you can found them on my [github](https://github.com/ARXINO) page).
 
 ```markdown
-Syntax highlighted code block
+Skills (Higher in order means I have a very good understanig of it among others)
 
-# Header 1
-## Header 2
-### Header 3
+Concepts
+- Data Structures
+- Sort, search algorithms
+- Object Orianted Programming
+- Multithreading
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Programming Languages
+- Java
+- Python
+- C#
+- Javascript
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ARXINO/arxino.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
