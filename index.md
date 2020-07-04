@@ -5,11 +5,9 @@ You can always check out my [github](https://github.com/ARXINO) page and [linked
 
 ### Skills
 
-I have a good understanding of low-level languages like C. I initially write my algorithms in high-level languages like Python, Java, C# then I convert them to C. Memory and time efficiency is my priority thanks to Atmega328 microchips. I have been working on microchips for 3 years and since then I made several robotic and automation projects (you can found them on my [github](https://github.com/ARXINO) page).
+I have a good understanding of low-level languages like C. I initially write my algorithms in high-level languages like Python, Java, C# then I convert them to C. Memory and time efficiency is my priority thanks to Atmega328 microchips. I have been working on microchips since 2017 and since then I made several robotic and automation projects (you can found them on my [github](https://github.com/ARXINO) page).
 
 ```markdown
-Skills
-
 Concepts
 - Data Structures
 - Sort, search algorithms
